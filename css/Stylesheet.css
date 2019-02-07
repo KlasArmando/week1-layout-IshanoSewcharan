@@ -1,0 +1,18 @@
+/* stylesheet.css */
+/* Ishano Sewcharan */
+
+header
+
+  { color: black;}
+
+body
+  { background-image: url('../img/NWA.jpg');
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;  }
+
+.col-sm-4
+
+    { background-color: black;
+      color: white;
+      border-radius: 25px;
+      border-color: red; }
